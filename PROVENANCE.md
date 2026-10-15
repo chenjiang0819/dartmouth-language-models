@@ -6,4 +6,4 @@ notebook fragments. The runnable modules and demonstration include 2026
 AI-assisted repairs and independently implemented supporting code.
 
 The language-model workflow uses upstream Hugging Face GPT-2 and PyTorch.
-Student-written models and transfer heads are identified in the README.
+The README identifies the student n-gram implementation and the GPT-2 fine-tuning workflow.
